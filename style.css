@@ -1,0 +1,19 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    flex-shrink: 0;
+    font-size: .5rem;
+}
+
+#questions,
+#final,
+#highscores,
+#yesno {
+    display: none;
+}
+
+ul.nobullets {
+    list-style-type: none;
+}
